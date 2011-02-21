@@ -1,0 +1,4 @@
+All code in this project "learningreg" is released under Apache 2 license
+ (c) Steve Midgley 2011
+ Released under Apache 2.0 license 
+ (http://www.apache.org/licenses/LICENSE-2.0.html)
